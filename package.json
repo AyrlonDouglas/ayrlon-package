@@ -17,6 +17,6 @@
 	"homepage": "https://github.com/AyrlonDouglas/ayrlon-package#readme",
 	"description": "",
 	"publishConfig": {
-		"@ayrlondouglas:registry": "https://npm.pkg.github.com"
+		"@AyrlonDouglas:registry": "https://npm.pkg.github.com"
 	}
 }
